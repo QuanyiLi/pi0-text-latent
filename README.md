@@ -1,4 +1,6 @@
-This is the official implementation of the paper: **Task Reconstruction and Extrapolation for $\pi_0$ using Text Latent**
+# VLAs Are Confined yet Capable of Generalizing to Novel Tasks
+
+This work appeared with a different name previously: **Task Reconstruction and Extrapolation for $\pi_0$ using Text Latent**
 
 [[Arxiv](https://arxiv.org/pdf/2505.03500)]
 
